@@ -1,1 +1,2 @@
-# WATER-POLLUTION
+# WATER-POLLUTIONA practical definition of water pollution is: "Water pollution is the addition of substances or energy forms that directly or indirectly alter the nature of the water body in such a manner that negatively affects its legitimate uses".
+Therefore, pollution is associated with concepts attributed to humans, namely the negative alterations and the uses of the water body. Water is typically referred to as polluted when it is impaired by anthropogenic contaminants. Due to these contaminants it either does not support a human use, such as drinking water, or undergoes a marked shift in its ability to support its biotic communities, such as fish.
